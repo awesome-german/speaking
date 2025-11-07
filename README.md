@@ -721,7 +721,11 @@ Learning to speak German fluently involves much more than just vocabulary and gr
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first. Feel free to submit pull requests to add resources, correct information, or suggest improvements.
+Contributions are welcome! Feel free to submit pull requests to add resources, correct information, or suggest improvements. When contributing, please:
+- Ensure resources are relevant to German speaking, pronunciation, and conversation
+- Check that links are working and lead to quality content
+- Maintain the existing formatting and structure
+- Add new resources in the appropriate section
 
 ## Community and Support
 
