@@ -216,9 +216,9 @@ Learning to speak German fluently involves much more than just vocabulary and gr
 
 ### Pronunciation-Specific
 
-- [German Pronunciation Training](https://www.youtube.com/results?search_query=german+pronunciation+training) - Various specialized pronunciation channels.
-- [Katja from Deutsch für Euch - Pronunciation](https://www.youtube.com/watch?v=playlist) - Dedicated pronunciation videos.
-- [Learn German Pronunciation](https://www.youtube.com/c/LearnGermanPronunciation) - Sound-by-sound training.
+- [Deutsch für Euch - Aussprache Playlist](https://www.youtube.com/c/DeutschFürEuch/playlists) - Katja's dedicated pronunciation videos.
+- [Easy German Pronunciation Videos](https://www.youtube.com/c/EasyGerman/search?query=pronunciation) - Pronunciation-focused content from Easy German.
+- [German with Anja - Pronunciation](https://www.youtube.com/c/LearnGermanwithAnja/search?query=pronunciation) - Sound-by-sound training.
 
 ### Vloggers and Native Content
 
@@ -256,7 +256,7 @@ Learning to speak German fluently involves much more than just vocabulary and gr
 
 ### Cultural and Idiomatic Guides
 
-- **The Big Silver Book of Russian Verbs** - Includes German verb patterns and usage.
+- **A Frequency Dictionary of German** by Randall Jones - Core vocabulary with usage patterns.
 - **German Slang** by Mike Müller - Modern colloquial expressions.
 - **Speak German Like a Native** - Idiomatic expressions and natural speech patterns.
 - **Straßendeutsch** - Street German and informal language.
