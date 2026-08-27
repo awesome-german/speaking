@@ -2199,3 +2199,17 @@ Inseparable prefixes (unstressed):
 - Microsoft Cortana (German)
 
 This awesome list provides a comprehensive foundation for anyone serious about mastering spoken German. Whether you're a complete beginner or an advanced learner, these resources offer paths to fluency through structured learning, practice, and immersion in the German language and culture.
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [**pronunciation**](https://github.com/awesome-german/pronunciation) — Guides, phonetic tools, and speaking exercises to achieve clear and natural German pronunciation.
+- [**communities**](https://github.com/awesome-german/communities) — Online and offline German learning communities for discussion, support, and collaboration.
+- [**podcasts**](https://github.com/awesome-german/podcasts) — Curated list of the best podcasts to learn, practice, and enjoy German through real conversation and culture.
+- [**phonetics**](https://github.com/awesome-german/phonetics) — IPA-based German pronunciation guides
+- [**text-to-speech**](https://github.com/didvc/text-to-speech) — 🎤 VoiceFlow - Modern text-to-speech web application with real-time word highlighting, customizable voice settings, and content management. Built…
+- [**multi-timer-audio-recorder**](https://github.com/didvc/multi-timer-audio-recorder) — Unified controls for stopwatch, timer, and audio recording. Perfect for interviews, workouts, cooking, and productivity sessions.
+<!-- END gh-mutual-linking -->
