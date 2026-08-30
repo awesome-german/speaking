@@ -145,6 +145,7 @@ Learning to speak German fluently involves much more than just vocabulary and gr
 - [Scenarios for Speaking Practice](https://www.goethe.de/en/spr/ueb.html) - Situation-based conversation exercises from Goethe-Institut.
 - [Business German Simulations](https://www.wirtschaftsdeutsch.de/) - Professional conversation scenarios and role-plays.
 - [Daily Life Dialogues](https://www.languageguide.org/german/grammar/conversations/) - Common everyday conversation practice.
+- [Übungszeit](https://ubungszeit.com/learn/a1/speaking) - Everyday spoken scenes where the tutor answers back and coaches you, A1-C1.
 
 ## Conversation Exchange Services
 
