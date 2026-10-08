@@ -719,6 +719,12 @@ Learning to speak German fluently involves much more than just vocabulary and gr
 
 ---
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests to add resources, correct information, or suggest improvements. When contributing, please:
@@ -2200,16 +2206,24 @@ Inseparable prefixes (unstressed):
 
 This awesome list provides a comprehensive foundation for anyone serious about mastering spoken German. Whether you're a complete beginner or an advanced learner, these resources offer paths to fluency through structured learning, practice, and immersion in the German language and culture.
 
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
 <!-- BEGIN gh-mutual-linking -->
 
 ---
 
 ### Related projects
 
-- [**pronunciation**](https://github.com/awesome-german/pronunciation) — Guides, phonetic tools, and speaking exercises to achieve clear and natural German pronunciation.
-- [**communities**](https://github.com/awesome-german/communities) — Online and offline German learning communities for discussion, support, and collaboration.
-- [**podcasts**](https://github.com/awesome-german/podcasts) — Curated list of the best podcasts to learn, practice, and enjoy German through real conversation and culture.
-- [**phonetics**](https://github.com/awesome-german/phonetics) — IPA-based German pronunciation guides
-- [**text-to-speech**](https://github.com/didvc/text-to-speech) — 🎤 VoiceFlow - Modern text-to-speech web application with real-time word highlighting, customizable voice settings, and content management. Built…
-- [**multi-timer-audio-recorder**](https://github.com/didvc/multi-timer-audio-recorder) — Unified controls for stopwatch, timer, and audio recording. Perfect for interviews, workouts, cooking, and productivity sessions.
+- [pronunciation](https://github.com/awesome-german/pronunciation): Guides, phonetic tools, and speaking exercises to achieve clear and natural German pronunciation.
+- [phrases](https://github.com/awesome-german/phrases): Common German phrases and expressions for everyday conversation.
+- [phonetics](https://github.com/awesome-german/phonetics): IPA-based German pronunciation guides.
+- [communities](https://github.com/awesome-german/communities): Online and offline German learning communities for discussion, support, and collaboration.
+- [podcasts](https://github.com/awesome-german/podcasts): Curated list of the best podcasts to learn, practice, and enjoy German through real conversation and culture.
+- [business](https://github.com/awesome-german/business): Resources and guides for mastering professional communication in German-speaking workplaces.
+- [ai-tools](https://github.com/awesome-german/ai-tools): AI-powered tools and chatbots that personalize German learning and automate feedback.
+
 <!-- END gh-mutual-linking -->
